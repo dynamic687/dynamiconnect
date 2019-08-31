@@ -1,0 +1,187 @@
+
+.content-mobile {
+    display: none;
+}
+
+.home-container {
+    margin-top: 15vh;
+}
+
+.home-container .home-text {
+    margin-top: 5vh;
+}
+
+.home-container h1 {
+    font-family: 'Dosis';
+    font-size: 22pt;
+    font-weight: 600;
+    color: #303030;
+}
+
+.home-container h1 span {
+    color: rgb(243, 3, 3);
+    font-weight: 800;
+}
+
+.home-text p {
+    font-size: 14pt;
+}
+
+.home-logo {
+    width: 300px;
+    margin-bottom: 30px;
+}
+
+img.img-logo {
+    height: 30px;
+}
+
+.home-img {
+    width: 100%;
+}
+
+.btn-home-daftar,
+.btn-home-login {
+    width: 200px;
+    color: #fff;
+}
+
+.btn-home-daftar:hover,
+.btn-home-login:hover,
+.btn-google:hover {
+    color: #fff;
+    opacity: 0.8;
+    border: 2px solid #f3f3f3;
+}
+
+.btn-home-daftar {
+    background-color: rgb(243, 3, 3);
+    margin-right: 10px;
+}
+
+.btn-home-login {
+    background-color: rgb(65, 65, 65);
+}
+
+.btn-google {
+    background-color: #DB4437;
+    color: #fff;
+}
+
+.row-5 {
+    margin-right: -5px;
+    margin-left: -5px;
+}
+
+.row-5 .col-md-6 {
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+input.dashboard-search {
+    width: 300px !important;
+}
+
+img.img-profile-sm {
+    width: 25px;
+    height: 25px;
+    border-radius: 100%;
+}
+
+img.img-profile-md {
+    width: 35px;
+    height: 35px;
+    border-radius: 100%;
+}
+
+.nav-item a.nav-link i {
+    font-size: 18pt;
+    margin-top: 3px;
+    margin-right: 15px;
+}
+
+span.notif-1 {
+    background-color: red;
+    padding: 1px;
+    width: 15px;
+    height: 15px;
+    font-size: 7pt;
+    position: absolute;
+    border-radius: 5px;
+    text-align: center;
+    top: 12px;
+    margin-left: 15px;
+    font-weight: 700;
+    color: #fff;
+}
+
+.side-menu {
+    border-right: solid 1px #dddddd;
+    width: 300px;
+    position: fixed;
+    left: auto;
+}
+
+.side-menu ul li{
+    display: block;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    text-align: right;
+}
+
+.side-menu ul li a {
+    color: #303030;
+    font-size: 16pt;
+    font-weight: 700;
+}
+
+.side-menu ul li a.text-kategori {
+    color: #7e7e7e;
+}
+
+.side-postingan {
+    margin-left: auto;
+    padding-left: 30px;
+}
+
+.hr-dasbor-1 {
+    background-color: #fff;
+    position: absolute;
+    margin-top: -27px;
+    margin-left: -63px;
+    padding-left: 15px;
+}
+
+.show-post-form {
+    display: none;
+}
+
+.card-add-post {
+    height: auto;
+    z-index: 999;
+}
+
+.card-add-post .show-post-form {
+    display: block !important;
+}
+
+.card-add-post textarea {
+    height: 210px;
+}
+
+.ifImg {
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.card-postingan {
+    margin-bottom: 15px;
+}
+
+.post-section {
+    margin-bottom: 50px;
+}
+
+img.img-post-sm {
+    height: 60px;
+}
